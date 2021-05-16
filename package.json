@@ -1,5 +1,5 @@
 {
-  "name": "eslint-configuration",
+  "name": "eslint-config-snippets-book",
   "version": "1.0.0",
   "description": "Snippets-book eslint configuration",
   "main": "index.js",
