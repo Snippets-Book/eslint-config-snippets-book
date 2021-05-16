@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-snippets-book",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Snippets-book eslint configuration",
   "main": "index.js",
   "repository": {
@@ -17,7 +17,8 @@
   "homepage": "https://github.com/Snippets-Book/eslint-configuration#readme",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^3.2.0",
-    "@typescript-eslint/parser": "^3.2.0"
+    "@typescript-eslint/parser": "^3.2.0",
+    "eslint-config-prettier": "^8.3.0"
   },
   "peerDependencies": {
     "eslint": "^7.1.0"
