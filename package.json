@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-snippets-book",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Snippets-book eslint configuration",
   "main": "index.js",
   "repository": {
